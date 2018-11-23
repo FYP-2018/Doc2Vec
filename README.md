@@ -7,3 +7,7 @@ Package preparation: gensim, matpoltlib, sk-learn, pyclustering
 
 
 Currently, this version only use the PV-DBOW model.
+
+
+### requirements: 
+  smart_open
